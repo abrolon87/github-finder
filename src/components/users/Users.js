@@ -5,19 +5,19 @@ export class Users extends Component {
   state = {
     users: [
       {
-        id: "id",
+        id: "1",
         login: "github user",
         avatar_url: "https://avatars0.githubusercontent.com/u/1?v=4",
         html_url: "https://github.com/abrolon87",
       },
       {
-        id: "id",
+        id: "2",
         login: "github user",
         avatar_url: "https://avatars0.githubusercontent.com/u/1?v=4",
         html_url: "https://github.com/abrolon87",
       },
       {
-        id: "id",
+        id: "3",
         login: "github user",
         avatar_url: "https://avatars0.githubusercontent.com/u/1?v=4",
         html_url: "https://github.com/abrolon87",
